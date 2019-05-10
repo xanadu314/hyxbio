@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HYX Bioinformatics Collections
 
 You can use the [editor on GitHub](https://github.com/xanadu314/hyxbio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,8 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+[MD simulations](http://ibi.hzau.edu.cn/ComputationalBiochemistry/index2.html)
 ```
-
+[MD simulations](http://ibi.hzau.edu.cn/ComputationalBiochemistry/index2.html)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
